@@ -1,8 +1,8 @@
 Hi, there! 👋🏻
 
-I am Oksana, a skilled frontend developer with 3,5+ years of experience.
+I am Oksana, a skilled frontend developer with 4 years of experience.
 
-I am a professional with 3.5 years of commercial experience and over 5 years of total experience in programming. As an engineer, I’m able to quickly learn new technologies and apply them in practice. I prfioritize the working environment with mutual respect and support.
+I am a professional with 4 years of commercial experience and over 5 years of total experience in programming. As an engineer, I’m able to quickly learn new technologies and apply them in practice. I prfioritize the working environment with mutual respect and support.
 
 Technical skills:
 
