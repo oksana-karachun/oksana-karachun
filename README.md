@@ -1,13 +1,21 @@
-Hi, there! 👋🏻
+Hi there! 👋🏻
 
-I am Oksana, a skilled frontend developer with 4 years of experience.
+I'm Oksana, a skilled frontend developer with four years of commercial experience and over five years in programming. I hold a higher education degree in Information Systems and Technologies, which has provided me with a solid foundation of technical expertise. My professional journey is also marked by self-driven learning in finance, investments, cryptocurrencies, and trading. As an engineer, I excel at quickly learning and applying new technologies in practical settings. I prioritize working in environments that foster mutual respect and support, ensuring collaborative and productive teamwork.
 
-I am a professional with 4 years of commercial experience and over 5 years of total experience in programming. As an engineer, I’m able to quickly learn new technologies and apply them in practice. I prfioritize the working environment with mutual respect and support.
+🛠️ **Technical skills**:
 
-Technical skills:
+**HTML5**: BEM methodology, Canvas <br />
+**CSS3**: SASS, Tailwind CSS <br />
+**JavaScript**: React.js, Next.js, jQuery, Redux, Zustand <br />
+**TypeScript** <br />
+**Testing**: Jest, Enzyme, React Testing Library, Cypress, Vitest <br />
+**Build Tools**: Webpack, Vite <br />
+**DevOps Tools**: Docker <br />
+**Project Architecture**: Feature-Sliced Design <br />
+**Version Control**: Git <br />
+**Design and Prototyping Tools**: Figma <br />
+**CMS**: Webflow, WordPress <br />
 
-HTML5 | CSS3/SCSS/LESS | JavaScript/TypeScript | React/Next.js | Redux (Thunk/Toolkit/Reselect) | Zustand | RxJs | Jest/Enzyme/Vitest/React Testing Library | Webpack/Vite | ESLint/Prettier | Feature-Sliced Design | Git (GitLab/GitHub) | Figma | Postman (experience with Restful API) | Docker | Bash scripting
-
-How to reach me:
+**How to reach me**:
 
 Linkedin: https://www.linkedin.com/in/oksana-karachun/
